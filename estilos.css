@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+  
+
+}
+footer{
+    color: #502d55;
+    
+}
+table{
+width: 1500px;
+background-color: #8e4b71;
+color: #e7c8b7;
+
+}
+th{
+    border: 1px #e7c8b7 solid;
+}
+h1{
+    color: #502d55;
+    font-size: 50px;
+}
+.n{
+color: #74695f;
+}
+body{
+    background-image: url(Light\ brown\ flower\ pastel.jpg);
+    
+    
+}
+.d{
+    display: inline-block;
+    margin: 90px;
+    background-color: antiquewhite;
+    padding: 5%;
+    border: 1px rgb(255, 185, 93) solid ;
+}
+.i{
+    
+    display: inline-block;
+    margin: 70px;
+}
+img{
+    width: 470px;
+    margin: 20px;
+}
+h3{
+    color: #c78dae;
+}
+h2{
+    color: #502d55;
+}
+main{
+    background-color: #e7c8b7;
+}
+.f{
+    text-align: center;
+}
